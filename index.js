@@ -1,3 +1,3 @@
 const Questions = require('./lib/Application');
 
-new Questions().nameQuestion();
+new Questions().getName();
