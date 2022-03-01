@@ -1,12 +1,15 @@
-const fs = require('fs');
-const Questions = require('../lib/Application');
+// function to iterate over the data array returning each html card
 
-function Employees() {
-  this.employee
-  this.manager
+var generateHTML = (data) => {
+  return `
+  <!DOCTYPE html>
 
+  other html code
+
+  <body>
+    ${functionToIterateOverData}
+  </body>
+
+  
+  `
 }
-
-var Data = function() {
-  console.log("Data Received.")
-};

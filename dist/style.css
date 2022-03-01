@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  padding: 10px 0;
+}
+
+.headerText {
+  font-size: 40px;
+}
